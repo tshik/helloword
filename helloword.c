@@ -2,8 +2,8 @@
 
 int main()
 {
-	printf ("hello word");
-	printf ("welcome to Beijing");
+	printf ("hello word\n");
+	printf ("welcome to Beijing\n");
 	return 0;
 }
 
